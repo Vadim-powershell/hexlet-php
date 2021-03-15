@@ -1,0 +1,10 @@
+{
+    "name": "vadim/hexlet-php",
+    "authors": [
+        {
+            "name": "Casder",
+            "email": "sucfer@mail.ru"
+        }
+    ],
+    "require": {}
+}
